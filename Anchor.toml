@@ -3,6 +3,8 @@ seeds = false
 skip-lint = false
 [programs.localnet]
 nft_lend_borrow = "AR7FastXfwZX2q1KsEhWwdFZJqhzr8dFqUvwBhAs1s77"
+[programs.devnet]
+nft_lend_borrow = "AR7FastXfwZX2q1KsEhWwdFZJqhzr8dFqUvwBhAs1s77"
 
 [registry]
 url = "https://api.apr.dev"
